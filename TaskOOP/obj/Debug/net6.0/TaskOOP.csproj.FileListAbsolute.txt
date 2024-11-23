@@ -1,0 +1,14 @@
+D:\visual-studio\TaskOOP\bin\Debug\net6.0\TaskOOP.exe
+D:\visual-studio\TaskOOP\bin\Debug\net6.0\TaskOOP.deps.json
+D:\visual-studio\TaskOOP\bin\Debug\net6.0\TaskOOP.runtimeconfig.json
+D:\visual-studio\TaskOOP\bin\Debug\net6.0\TaskOOP.dll
+D:\visual-studio\TaskOOP\bin\Debug\net6.0\TaskOOP.pdb
+D:\visual-studio\TaskOOP\obj\Debug\net6.0\TaskOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual-studio\TaskOOP\obj\Debug\net6.0\TaskOOP.AssemblyInfoInputs.cache
+D:\visual-studio\TaskOOP\obj\Debug\net6.0\TaskOOP.AssemblyInfo.cs
+D:\visual-studio\TaskOOP\obj\Debug\net6.0\TaskOOP.csproj.CoreCompileInputs.cache
+D:\visual-studio\TaskOOP\obj\Debug\net6.0\TaskOOP.dll
+D:\visual-studio\TaskOOP\obj\Debug\net6.0\refint\TaskOOP.dll
+D:\visual-studio\TaskOOP\obj\Debug\net6.0\TaskOOP.pdb
+D:\visual-studio\TaskOOP\obj\Debug\net6.0\TaskOOP.genruntimeconfig.cache
+D:\visual-studio\TaskOOP\obj\Debug\net6.0\ref\TaskOOP.dll

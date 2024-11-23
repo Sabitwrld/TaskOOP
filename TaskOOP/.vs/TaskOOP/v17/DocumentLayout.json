@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visual-studio\\TaskOOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50E3FA90-8FF2-44DD-9C54-0D6531F6A6FD}|TaskOOP.csproj|d:\\visual-studio\\taskoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E3FA90-8FF2-44DD-9C54-0D6531F6A6FD}|TaskOOP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E3FA90-8FF2-44DD-9C54-0D6531F6A6FD}|TaskOOP.csproj|d:\\visual-studio\\taskoop\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E3FA90-8FF2-44DD-9C54-0D6531F6A6FD}|TaskOOP.csproj|solutionrelative:group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E3FA90-8FF2-44DD-9C54-0D6531F6A6FD}|TaskOOP.csproj|d:\\visual-studio\\taskoop\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E3FA90-8FF2-44DD-9C54-0D6531F6A6FD}|TaskOOP.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E3FA90-8FF2-44DD-9C54-0D6531F6A6FD}|TaskOOP.csproj|d:\\visual-studio\\taskoop\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E3FA90-8FF2-44DD-9C54-0D6531F6A6FD}|TaskOOP.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E3FA90-8FF2-44DD-9C54-0D6531F6A6FD}|TaskOOP.csproj|d:\\visual-studio\\taskoop\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E3FA90-8FF2-44DD-9C54-0D6531F6A6FD}|TaskOOP.csproj|solutionrelative:iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Group.cs",
+              "DocumentMoniker": "D:\\visual-studio\\TaskOOP\\Group.cs",
+              "RelativeDocumentMoniker": "Group.cs",
+              "ToolTip": "D:\\visual-studio\\TaskOOP\\Group.cs",
+              "RelativeToolTip": "Group.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAIwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:24:12.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\visual-studio\\TaskOOP\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "D:\\visual-studio\\TaskOOP\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:23:49.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\visual-studio\\TaskOOP\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "D:\\visual-studio\\TaskOOP\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:22:39.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAccount.cs",
+              "DocumentMoniker": "D:\\visual-studio\\TaskOOP\\IAccount.cs",
+              "RelativeDocumentMoniker": "IAccount.cs",
+              "ToolTip": "D:\\visual-studio\\TaskOOP\\IAccount.cs",
+              "RelativeToolTip": "IAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:21:58.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visual-studio\\TaskOOP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\visual-studio\\TaskOOP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAAAJ0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:20:40.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
